@@ -1,4 +1,4 @@
-print('\033[32mList Generator\033[0m')
+print('\033[32mList Generator.\033[0m')
 print()
 a = int(input('Enter the starting number: '))
 print()
